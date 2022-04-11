@@ -36,3 +36,13 @@
 .fundo2 p {
   color: white;
 }
+
+.fundo-branco {
+  background-color: white;
+}
+
+body {
+  background-image: url(../img/hotel5.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+}
